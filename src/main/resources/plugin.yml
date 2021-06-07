@@ -1,0 +1,9 @@
+name: AutoRestart
+version: ${project.version}
+main: ca.elimin8.AutoRestart.Restarter
+api-version: 1.16
+authors: [ kylevardy_ ]
+description: This plugin restart the server as specified in the config.
+website: elimin8.ca
+softdepend:
+  - PlaceholderAPI

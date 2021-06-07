@@ -1,0 +1,11 @@
+# Time before restarting in hours (Can put .5 etc)
+time: 1.5
+# Count down in chat use %time% in the message to set where the time is.
+countdown: true
+countdownmsg: "&eRestarting in %time%"
+consolecountdownmsg: "&eRestarting in %time%"
+# Time before the restart that the countdown starts in seconds
+countdownstart: 10
+# Kick message make sure if you want to kick player to specify it by setting kick to true
+kick: true
+kickmsg: "&eSorry %player_name%, the Server is Restarting"
